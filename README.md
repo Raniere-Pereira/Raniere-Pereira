@@ -18,6 +18,7 @@ Possuo experiência no desenvolvimento de dashboards, automação de processos, 
 - Gestão de Estoques
 - Indicadores Operacionais e Financeiros
 - Automação de Processos
+- Simulação e Modelagem de Processos Industriais
 
 ---
 
@@ -45,6 +46,10 @@ Possuo experiência no desenvolvimento de dashboards, automação de processos, 
 - DAX
 - Power Query
 - Excel Avançado
+
+### Simulação e Modelagem
+- DWSIM
+- Bizagi Modeler
 
 ---
 
