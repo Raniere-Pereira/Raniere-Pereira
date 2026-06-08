@@ -1,16 +1,60 @@
-## Hi there 👋
+# Bem vindo ao meu perfil!!
 
-<!--
-**Raniere-Pereira/Raniere-Pereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Raniere Pereira
 
-Here are some ideas to get you started:
+Analista de Dados com experiência em Supply Chain, Compras, Planejamento e Business Intelligence, atuando na transformação de dados em insights estratégicos para suporte à tomada de decisão.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Possuo experiência no desenvolvimento de dashboards, automação de processos, análise estatística e modelagem de dados, contribuindo para ganhos de eficiência operacional, redução de custos e otimização de indicadores de desempenho.
+
+---
+
+## Áreas de Especialização
+
+- Data Analytics
+- Business Intelligence
+- Supply Chain Analytics
+- Planejamento de Demanda
+- Compras e Strategic Sourcing
+- Gestão de Estoques
+- Indicadores Operacionais e Financeiros
+- Automação de Processos
+
+---
+
+## Competências Técnicas
+
+### Linguagens e Bancos de Dados
+- Python
+- SQL
+- VBA
+- SQL Server
+- MySQL
+- PostgreSQL
+
+### Análise de Dados e Ciência de Dados
+- Pandas
+- NumPy
+- Scikit-Learn
+- Estatística Aplicada
+- Séries Temporais
+- Forecasting
+- Machine Learning
+
+### Business Intelligence
+- Power BI
+- DAX
+- Power Query
+- Excel Avançado
+
+---
+
+## Projetos
+- DataBase_Modeling_E-COMMERCE
+- Schema_New_Ecommerce
+- DataBase_Modeling_Car_Workshop
+- porsche_sales_dashboard
+---
+## Contato
+
+- LinkedIn: www.linkedin.com/in/raniere-pereira-de-paula
+- GitHub: github.com/Raniere-Pereira
