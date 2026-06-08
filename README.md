@@ -1,8 +1,6 @@
 # Bem vindo ao meu perfil!!
 
-## Raniere Pereira
-
-Analista de Dados com experiência em Supply Chain, Compras, Planejamento e Business Intelligence, atuando na transformação de dados em insights estratégicos para suporte à tomada de decisão.
+Sou Analista de Dados e Processos com experiência em Supply Chain, Compras, Planejamento e Business Intelligence, atuando na transformação de dados em insights estratégicos para suporte à tomada de decisão.
 
 Possuo experiência no desenvolvimento de dashboards, automação de processos, análise estatística e modelagem de dados, contribuindo para ganhos de eficiência operacional, redução de custos e otimização de indicadores de desempenho.
 
