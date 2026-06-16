@@ -56,6 +56,7 @@ Possuo experiência no desenvolvimento de dashboards, automação de processos, 
 - [Schema_New_Ecommerce](https://github.com/Raniere-Pereira/Schema_New_Ecommerce)
 - [DataBase_Modeling_Car_Workshop](https://github.com/Raniere-Pereira/DataBase_Modeling_Car_Workshop)
 - [porsche_sales_dashboard](https://github.com/Raniere-Pereira/porsche_sales_dashboard)
+- [Demand_Forecasting_Benchmark_Project](https://github.com/Raniere-Pereira/Demand-Forecasting-Benchmark-Project)
 ---
 ## Contato
 
