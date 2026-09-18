@@ -10,13 +10,9 @@ Possuo experiência no desenvolvimento de dashboards, automação de processos, 
 
 - Data Analytics
 - Business Intelligence
-- Supply Chain Analytics
-- Planejamento de Demanda
-- Compras e Strategic Sourcing
-- Gestão de Estoques
-- Indicadores Operacionais e Financeiros
 - Automação de Processos
 - Simulação e Modelagem de Processos Industriais
+- Data Engineering
 
 ---
 
@@ -29,20 +25,22 @@ Possuo experiência no desenvolvimento de dashboards, automação de processos, 
 - SQL Server
 - MySQL
 - PostgreSQL
+- Databricks
+- Azure
 
 ### Análise de Dados e Ciência de Dados
 - Pandas
 - NumPy
 - Scikit-Learn
 - Estatística Aplicada
-- Séries Temporais
-- Forecasting
 - Machine Learning
 
 ### Business Intelligence
 - Power BI
 - DAX
 - Power Query
+- Power Apps
+- Power Automate
 - Excel Avançado
 
 ### Simulação e Modelagem
