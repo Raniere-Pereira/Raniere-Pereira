@@ -2,7 +2,7 @@
 
 Sou Analista de Dados e Processos formado em Engenharia  com experiência em Supply Chain, Compras, Planejamento, Business Intelligence e Simulação de Processos Industriais atuando na transformação de dados em insights estratégicos para suporte à tomada de decisão.
 
-Possuo experiência no desenvolvimento de dashboards, automação de processos, análise estatística e modelagem de dados, contribuindo para ganhos de eficiência operacional, redução de custos e otimização de indicadores de desempenho.
+Possuo experiência no desenvolvimento de dashboards, automação de processos, análise estatística e modelagem e eng. de dados, contribuindo para ganhos de eficiência operacional, redução de custos e otimização de indicadores de desempenho.
 
 ---
 
