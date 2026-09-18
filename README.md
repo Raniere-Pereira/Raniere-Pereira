@@ -32,8 +32,12 @@ Possuo experiência no desenvolvimento de dashboards, automação de processos, 
 - Pandas
 - NumPy
 - Scikit-Learn
+- PySpark
+- SQLite3
+- Requests
 - Estatística Aplicada
 - Machine Learning
+- Forecasting
 
 ### Business Intelligence
 - Power BI
@@ -59,6 +63,10 @@ Possuo experiência no desenvolvimento de dashboards, automação de processos, 
 - [DataBase_Modeling_Car_Workshop](https://github.com/Raniere-Pereira/DataBase_Modeling_Car_Workshop)
 - [porsche_sales_dashboard](https://github.com/Raniere-Pereira/porsche_sales_dashboard)
 - [Demand_Forecasting_Benchmark_Project](https://github.com/Raniere-Pereira/Demand-Forecasting-Benchmark-Project)
+- [First Virtual Assistant](https://github.com/Raniere-Pereira/-Virtual-Assistant.git)
+- [Simple-Income-Tax-Return-Organizer](https://github.com/Raniere-Pereira/Simple-Income-Tax-Return-Organizer.git)
+- [Xbox-Game-Pass-Subscription-Sales](https://github.com/Raniere-Pereira/Xbox-Game-Pass-Subscription-Sales.git)
+- [Simple-Investment-Simulation](https://github.com/Raniere-Pereira/Simple-Investment-Simulation.git)
 ---
 ## Contato
 
