@@ -48,7 +48,11 @@ Possuo experiência no desenvolvimento de dashboards, automação de processos, 
 ### Simulação e Modelagem
 - DWSIM
 - Bizagi Modeler
-
+  
+### ERPs
+- TOTVs
+- Senior
+- SAP
 ---
 
 ## Projetos
